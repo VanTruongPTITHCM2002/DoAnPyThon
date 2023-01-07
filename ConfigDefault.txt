@@ -1,0 +1,11 @@
+Green1
+Red1
+Dark Cyan
+Orange1
+VioletRed
+GhostWhite
+DeepSkyBlue1
+Black
+Gray
+SaddleBrown
+Snow3
